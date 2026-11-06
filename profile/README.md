@@ -115,36 +115,30 @@
 
 <table>
   <tr>
-    <th colspan="3"><samp>TABLA DE HONOR</samp></th>
+    <th colspan="2"><samp>TABLA DE HONOR</samp></th>
   </tr>
   <tr>
-    <td align="center"><h3>1°</h3></td>
-    <td>
+    <td align="center" valign="top" width="64"><h3>1°</h3></td>
+    <td valign="top">
       <b>Cisco CyberGames Americas 2026</b> · Primer lugar<br>
       Rodrigo, socio de Volutus, resolvió las tres misiones de un desafío de ciberseguridad de tres horas, frente a más de 1.000 estudiantes de 21 países.
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7479866884285460481/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/botones/ver-publicacion-oscuro.png"><img src="assets/botones/ver-publicacion-claro.png" alt="Ver la publicación de Cisco CyberGames 2026" height="36"></picture></a>
+      <p><a href="https://www.linkedin.com/feed/update/urn:li:activity:7479866884285460481/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/botones/ver-publicacion-oscuro.png"><img src="assets/botones/ver-publicacion-claro.png" alt="Ver la publicación de Cisco CyberGames 2026" height="40"></picture></a></p>
     </td>
   </tr>
   <tr>
-    <td align="center"><h3>2°</h3></td>
-    <td>
+    <td align="center" valign="top" width="64"><h3>2°</h3></td>
+    <td valign="top">
       <b>Hackathon de Huawei Cloud y Kostra AI</b> · Segundo lugar<br>
       Un agente de IA que atiende por su cuenta las alertas de infraestructura: reúne el contexto de varios sistemas y propone un diagnóstico con su evidencia, en tiempo real, usando servicios MaaS.
-    </td>
-    <td align="center">
-      <a href="https://github.com/DiegoPyLL/Hackathon-Huawei-Cloud-MaaS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/botones/ver-codigo-oscuro.png"><img src="assets/botones/ver-codigo-claro.png" alt="Ver el código del Hackathon Huawei Cloud" height="36"></picture></a><br>
-      <a href="https://www.linkedin.com/posts/rodrigo-mart%C3%ADnez-becker-74b6ab241_agenticai-huaweicloud-hackathon-activity-7504179855928913920-ztEm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/botones/ver-publicacion-oscuro.png"><img src="assets/botones/ver-publicacion-claro.png" alt="Ver la publicación del Hackathon Huawei Cloud" height="36"></picture></a>
+      <p><a href="https://github.com/DiegoPyLL/Hackathon-Huawei-Cloud-MaaS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/botones/ver-codigo-oscuro.png"><img src="assets/botones/ver-codigo-claro.png" alt="Ver el código del Hackathon Huawei Cloud" height="40"></picture></a>&nbsp;<a href="https://www.linkedin.com/posts/rodrigo-mart%C3%ADnez-becker-74b6ab241_agenticai-huaweicloud-hackathon-activity-7504179855928913920-ztEm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/botones/ver-publicacion-oscuro.png"><img src="assets/botones/ver-publicacion-claro.png" alt="Ver la publicación del Hackathon Huawei Cloud" height="40"></picture></a></p>
     </td>
   </tr>
   <tr>
-    <td align="center"><h3>2°</h3></td>
-    <td>
+    <td align="center" valign="top" width="64"><h3>2°</h3></td>
+    <td valign="top">
       <b>9° Seminario Internacional de Ciberseguridad PDI</b> · Segundo lugar<br>
       El Capture the Flag (CTF) de ciberseguridad de la PDI de Chile permite poner a prueba habilidades técnicas mediante desafíos de identificación de vulnerabilidades, análisis digital y resolución de problemas.
     </td>
-    <td></td>
   </tr>
 </table>
 
